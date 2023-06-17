@@ -1,0 +1,663 @@
+2023-06-14T11:08:07+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:08:10+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:08:14+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:08:16+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:08:18+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:08:19+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:08:20+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:08:21+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:08:21+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:08:21+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:08:22+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:08:25+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:10:24+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:10:41+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:10:42+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:10:59+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:13:06+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:13:07+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:13:08+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:13:08+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:13:09+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:13:09+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:13:10+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:13:10+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:13:11+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:13:11+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:13:12+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:13:13+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:14:59+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogdescription" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:17:31+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:17:31+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:17:31+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:17:32+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:17:32+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:17:33+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:17:33+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:17:34+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:17:35+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogname" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:17:39+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogdescription" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:17:46+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogdescription" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:19:55+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogdescription" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:20:09+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogdescription" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T11:28:08+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:45:58+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:47:21+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:57:11+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:57:15+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T11:57:24+00:00 CRITICAL Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php:4415
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4415): ltrim()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4540): esc_url()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php(4522): sanitize_url()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/catch-themes-demo-import/inc/CatchThemesThemePlugin.php(40): esc_url_raw()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): CatchThemesThemePlugin->wp_ajax_custom_query_themes()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin-ajax.php(188): do_action()
+#8 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/formatting.php на строке 4415
+
+2023-06-14T12:11:45+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogdescription" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T12:14:44+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogdescription" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T12:14:45+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogdescription" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T12:14:46+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pet_animal_store_customize_partial_blogdescription" not found or invalid function name in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/template-loader.php(13): do_action()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-blog-header.php(19): require_once('...')
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/index.php(17): require('...')
+#7 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/customize/class-wp-customize-partial.php на строке 222
+
+2023-06-14T12:40:30+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/class-bulk-upgrader-skin.php:156
+Stack trace:
+#0 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/class-bulk-upgrader-skin.php(156): sprintf()
+#1 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/themes/my-dog-lite/class-tgm-plugin-activation.php(3553): Bulk_Upgrader_Skin->after()
+#2 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/class-wp-upgrader.php(841): TGMPA_Bulk_Installer_Skin->after()
+#3 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/themes/my-dog-lite/class-tgm-plugin-activation.php(3173): WP_Upgrader->run()
+#4 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/themes/my-dog-lite/class-tgm-plugin-activation.php(3286): TGMPA_Bulk_Installer->run()
+#5 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/themes/my-dog-lite/class-tgm-plugin-activation.php(2892): TGMPA_Bulk_Installer->bulk_install()
+#6 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/themes/my-dog-lite/class-tgm-plugin-activation.php(658): TGMPA_List_Table->process_bulk_actions()
+#7 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(308): TGM_Plugin_Activation->install_plugins_page()
+#8 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/admin.php(259): do_action()
+#11 /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/themes.php(10): require_once('...')
+#12 {main}
+  thrown в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/class-bulk-upgrader-skin.php на строке 156
+

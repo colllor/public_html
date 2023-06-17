@@ -1,0 +1,6 @@
+2023-06-16T05:22:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-compat/lib/locales.php на строке 2253
+
+2023-06-16T06:19:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-compat/lib/locales.php на строке 2253
+
+2023-06-16T06:19:57+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/media.php на строке 2430
+

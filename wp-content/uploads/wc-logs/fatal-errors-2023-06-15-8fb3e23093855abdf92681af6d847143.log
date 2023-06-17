@@ -1,0 +1,50 @@
+2023-06-15T16:51:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-compat/lib/locales.php на строке 2253
+
+2023-06-15T16:51:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 118784 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/admin.php на строке 37
+
+2023-06-15T16:51:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 118784 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/admin.php на строке 37
+
+2023-06-15T16:51:20+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wp-xmlrpc-server.php на строке 2398
+
+2023-06-15T16:51:30+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-compat/lib/locales.php на строке 2253
+
+2023-06-15T16:52:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 221184 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wpdb.php на строке 2397
+
+2023-06-15T16:52:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 118784 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/admin.php на строке 37
+
+2023-06-15T16:52:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/image.php на строке 453
+
+2023-06-15T16:52:33+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/image.php на строке 453
+
+2023-06-15T16:53:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 221184 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wpdb.php на строке 2397
+
+2023-06-15T16:54:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-compat/lib/locales.php на строке 2109
+
+2023-06-15T16:54:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 118784 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/admin.php на строке 37
+
+2023-06-15T16:55:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 118784 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/admin.php на строке 37
+
+2023-06-15T16:55:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 118784 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/admin.php на строке 37
+
+2023-06-15T16:55:45+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 118784 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/admin.php на строке 37
+
+2023-06-15T16:57:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-compat/lib/locales.php на строке 2253
+
+2023-06-15T17:01:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-compat/lib/locales.php на строке 2253
+
+2023-06-15T17:01:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 221184 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wpdb.php на строке 2397
+
+2023-06-15T17:01:17+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 118784 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/admin.php на строке 37
+
+2023-06-15T17:05:33+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/image.php на строке 453
+
+2023-06-15T17:21:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/image.php на строке 817
+
+2023-06-15T17:56:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 221184 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wpdb.php на строке 2397
+
+2023-06-15T17:56:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 118784 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/admin.php на строке 37
+
+2023-06-15T17:57:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 221184 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-includes/class-wpdb.php на строке 2397
+
+2023-06-15T17:57:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 118784 bytes) в /home/1825-20/web/novikova.xn--80ahdri7a.site/public_html/wp-admin/includes/admin.php на строке 37
+
